@@ -1,0 +1,21 @@
+div {margin: 10px;}
+
+.main-div
+{
+    border: 1px solid black;
+    width: 300px;
+    margin: 0 auto; 
+    font-family: 'Roboto', sans-serif;
+    margin-top: 200px;
+    border-radius: 25px;
+}
+.button {
+   text-align: center;
+float: center; }
+.button-div
+{
+    text-align: center;
+}
+
+h1 
+{text-align: center;}
